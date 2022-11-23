@@ -1,1 +1,1 @@
-# Felt-Temp-Prediction-Regression
+# Felt Temp Prediction with XGBoost and Linear Regression Models
