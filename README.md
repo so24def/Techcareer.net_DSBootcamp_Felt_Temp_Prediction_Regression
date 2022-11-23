@@ -8,4 +8,5 @@ Bu çalışmada,
    
    Temizliğini ve incelemesini yaptığım Ocak, Şubat, Temmuz ayları veri setlerinde daha sonra XGBoost ve Lineer regresyon modellerini kullanarak isabetli denebilecek sonuçlar elde ettim.
    
+   Daha fazla detay veya karşılaştığım sorunlara ve çözümlere ilişkin açıklamalar ilgili Jupyter Notebook dosyasında bulunmaktadır.
 
